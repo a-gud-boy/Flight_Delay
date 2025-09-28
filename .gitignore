@@ -1,1 +1,6 @@
 data/raw/*.csv
+data/processed/*.csv
+models/*.joblib
+models/*.meta.json
+models/current/*.joblib
+models/current/*.meta.json
